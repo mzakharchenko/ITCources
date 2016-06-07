@@ -9,7 +9,7 @@ public class Deposit {
     private int minSum;
     private boolean monthlyReplenishment;
 
-
+//agardgdgdrgd
 
     public Deposit (String bankName, int bankRating, String depositName, int minSum, double term, double percent, boolean earlyDissolution, boolean monthlyReplenishment) {
         this.bankName=bankName;
